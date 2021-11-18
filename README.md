@@ -8,7 +8,7 @@ I am Osong Agberndifor 😃, from Limbe, Cameroon🏫 I am a Freelance Fullstack
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS/SASS, React**, currently learning **TypeScrript**.
+- Front-end development using **HTML, Javascript, CSS/SASS, React**.
 - Backend development using **Ruby on Rails**.
 - Robust full-stack system design implementation.
 - Solving Data structure and algorithm questions in **JavaScript and Ruby**.
